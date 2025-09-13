@@ -1,5 +1,5 @@
 # Advanced SVG Path Editor v2.0
-
+ ***Latest Version*** **https://github.com/TresDtres/PatternmakerSVG_V3**
 This is a web-based, interactive Bézier curve editor built with React and TypeScript. It allows users to create and manipulate complex SVG paths with precision and ease. It's a powerful tool for designers, pattern makers, and developers who need to create custom vector graphics.
 
 ## What's New in Version 2.0
